@@ -1,0 +1,16 @@
+ .container{
+    height: 700px;
+    width: 800px;
+    border: 5px solid black;
+    display: flex;
+}
+ .regform{
+    height: 200px;
+    width: 500px;
+    border: 2px solid transparent transparent black transparent;
+    background-color: blueviolet;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: auto;
+   display: flex;
+ } 
